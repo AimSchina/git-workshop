@@ -1,1 +1,2 @@
-roses are blue
+roses are red
+sky is blue
